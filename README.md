@@ -1,4 +1,4 @@
-# Aplicación de la inteligencia artificial en una propuesta innovadora de aprovechamiento del gas natural para la generación de recursos
+# Aplicación de la inteligencia artificial en una propuesta innovadora de aprovechamiento del gas natural para la generación de recursos.
 
 Algoritmos de Machine Learning para predecir volúmenes de producción y venteo de gas natural, así como el precio de este hidrocarburo y de las criptomonedas, además de su aplicación en el trading. 
 
